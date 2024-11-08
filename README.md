@@ -1,15 +1,10 @@
-# 361-G17-Capstone-Project
-
-## Group Members:
-Peyton Comer, Lauren Mayo, Cong Nguyen, Eldin Salja, Luke Walsdorf, Jacob Walter
-
-## Canvas Modules:
-- [x] [Kick-Off Meeting Minutes](https://canvas.unl.edu/courses/167211/assignments/1676354)
-- [x] [Sprint 1 Documents](https://canvas.unl.edu/courses/167211/assignments/1676327)
-- [x] [Sprint 2 Documents](https://canvas.unl.edu/courses/167211/assignments/1676366)
-- [x] [Final Project Presentation](https://canvas.unl.edu/courses/167211/assignments/1676348)
-- [x] [Capstone Project Design Documents](https://canvas.unl.edu/courses/167211/assignments/1676338)
-- [x] [Final Project Code Submission](https://canvas.unl.edu/courses/167211/assignments/1676347)
+# Demo - Grocey Store Application
+## Special Thank, without your helps, this demo project is not successed:
+- Peyton Comer
+- Lauren Mayo
+- Eldin Salja
+- Jacob Walter
+- Luke Walsdorf
 
 ## How to run the Project:
 ### Database Setup
@@ -61,7 +56,7 @@ For database:
     - address,
     - payment information.
  
-## Not Fully Implemented Features
+## Unused Features
 - Address and payment method tables in the database and middlend that don't do anything
 - Sales/coupons for categories are outlined but they are not functional in the project
 - Invoices are not functional but also outlined in the database
