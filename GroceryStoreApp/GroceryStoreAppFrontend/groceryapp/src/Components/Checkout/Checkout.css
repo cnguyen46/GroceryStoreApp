@@ -1,0 +1,20 @@
+.checkout{
+    background: transparent;
+    border: 2px solid rgba(0, 0, 0, .3);
+    backdrop-filter: blur(30px);
+    box-shadow: 0 0 10px rgba(0, 0, 0, .2);
+    color: black;
+    border-radius: 10px;
+    padding: 30px 40px;
+}
+
+.continue{
+    position: relative;
+    left: 32%;
+}
+
+.logout{
+    position: relative;
+    left: 10%;
+    top:30px;
+}
